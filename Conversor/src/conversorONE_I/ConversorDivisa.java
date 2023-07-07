@@ -109,10 +109,5 @@ public class ConversorDivisa extends Divisas{
 	public void mensaje(){
 		JOptionPane.showMessageDialog(null, mensaje);
 	}
-	
-
-		 
-		 // JAVA SWING
-		 // https://docs.oracle.com/javase/8/docs/api/javax/swing/JOptionPane.html
 
 }
