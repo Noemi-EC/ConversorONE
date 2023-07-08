@@ -19,8 +19,12 @@
 - Convertir de grados Rankine a Kelvin y viceversa
 
 ## Video
-[Video primera versión](Videos/ConversorONE-I.mp4)
+<!-- ![Video primera versión | 100](Videos/Conversor-I.gif) -->
+<center><img src="Videos/Conversor-I.gif" width="350" alt="Video primera versión" /></center>
 
 ## Recursos
 * [Java SWING](https://docs.oracle.com/javase/8/docs/api/javax/swing/JOptionPane.html)
-* [Convesor de Divisas](https://www.xe.com/currencyconverter/)
+* [XE - Convesor de Divisas](https://www.xe.com/currencyconverter/)
+* [Online Convert - Conversor de video](https://www.online-convert.com/)
+* [Markdown - Gif](https://qastack.mx/programming/34341808/is-there-a-way-to-add-a-gif-to-a-markdown-file)
+* [Markdown - Tutorial](https://emowe.com/cerebro-digital/tutorial-de-markdown-en-espanol)
